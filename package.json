@@ -1,0 +1,22 @@
+{
+  "name": "somebot",
+  "version": "1.0.0",
+  "description": "a bot with functionalities",
+  "main": "SomeBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zenithatic/SomeBot.git"
+  },
+  "author": "Zenithatic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zenithatic/SomeBot/issues"
+  },
+  "homepage": "https://github.com/Zenithatic/SomeBot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
